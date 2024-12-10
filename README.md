@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kayler, an <a target="https://www.linkedin.com/in/kayler-busse/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Kayler, an <a href="https://www.linkedin.com/in/kayler-busse/" target="_blank">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
